@@ -37,7 +37,7 @@ nlim            = 100000   # cycle limit
 tlim            = 6.0      # time limit
 
 <domain1>
-NGrid_x1 = 2
+NGrid_x1 = 3
 level           = 0        # refinement level this Domain (root=0)
 Nx1             = 64       # Number of zones in X1-direction
 x1min           = -0.05    # minimum value of X1
